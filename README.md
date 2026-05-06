@@ -1,2 +1,11 @@
-# agnc-investment
+# AGNC Investment (agnc-investment)
+
 Profile for AGNC Investment in the API Evangelist network. Fortune F1000 (rank 798).
+
+**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=agnc-investment-api-evangelist&utm_content=repo)
+
+## Timestamps
+
+- **Created:** 2026-05-05
+- **Modified:** 2026-05-05
+
